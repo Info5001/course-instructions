@@ -2,6 +2,8 @@
 
 This repository contains important guides and information for students enrolled in INFO 5001 at Northeastern University.
 
+> **📚 Course Documentation Website**: Access our [course documentation site](https://info5001.github.io/course-instructions/) for a more user-friendly experience.
+
 ## Available Documentation
 
 - [About INFO 5001](about-info-5001.md) - Overview of the Information Systems program and detailed course description
@@ -29,6 +31,13 @@ Students in this course use the following industry-standard tools:
 ## Need Help?
 
 If you encounter any issues with the setup process or have questions about the course tools, please reach out through the course's Canvas discussion forums or during office hours.
+
+## Course Information
+
+- **Course**: INFO 5001 - Application Modeling and Design
+- **Program**: Master of Science in Information Systems (MSIS)
+- **Institution**: Northeastern University, College of Engineering
+- **Focus**: Object-oriented design, Java programming, and software engineering principles
 
 ---
 
