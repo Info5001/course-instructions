@@ -1,8 +1,8 @@
-# INFO 5001: Application Modeling and Design - Course Instructions
+# Setup Guides
 
 This repository contains important guides and information for students enrolled in INFO 5001 at Northeastern University.
 
-> **📚 Course Documentation Website**: Access our [course documentation site](https://info5001.github.io/course-instructions/) for a more user-friendly experience.
+> **📚 Course Documentation Website**: Access our [course documentation site](https://info5001.github.io/setup-guides/) for a more user-friendly experience.
 
 ## Available Documentation
 
@@ -15,29 +15,27 @@ This repository contains important guides and information for students enrolled 
 
 Students in this course use the following industry-standard tools:
 
-- Visual Studio Code with Java extensions
-- Java (Amazon Corretto 17)
-- Git and GitHub
-- GitHub Classroom
-- GitHub Copilot
+- **Visual Studio Code** - Primary IDE with extensions for Java development
+- **Java (Amazon Corretto 17)** - Core programming language and runtime
+- **Git & GitHub** - Version control and collaboration platform
+- **GitHub Classroom** - Assignment distribution and management
+- **GitHub Copilot** - AI pair programming assistant
 
 ## Getting Started
 
-1. Review the [About INFO 5001](about-info-5001.md) document to understand course objectives
-2. Follow the [Development Environment Setup Guide](dev-environment-setup-guide.md) to prepare your computer
-3. Set up GitHub access using the [GitHub Classroom Guide](github-classroom-guide.md)
-4. Configure AI assistance with the [GitHub Copilot Guide](github-copilot-guide.md)
+1. Follow the [Development Environment Setup Guide](dev-environment-setup-guide.md) to prepare your computer
+2. Set up GitHub access using the [GitHub Classroom Guide](github-classroom-guide.md)
+3. Configure AI assistance with the [GitHub Copilot Guide](github-copilot-guide.md)
 
 ## Need Help?
 
-If you encounter any issues with the setup process or have questions about the course tools, please reach out through the course's Canvas discussion forums or during office hours.
+If you encounter any issues with the setup process or have questions about the course tools, please:
 
-## Course Information
-
-- **Course**: INFO 5001 - Application Modeling and Design
-- **Program**: Master of Science in Information Systems (MSIS)
-- **Institution**: Northeastern University, College of Engineering
-- **Focus**: Object-oriented design, Java programming, and software engineering principles
+- Use Microsoft Teams and post your question to Courses channel
+- Check if other students have faced similar issues in the class discussions
+- Post your question in the course's Canvas discussion forums</li>
+- Use office hours (schedule available in Canvas)</li>
+- Contact your professor or teaching assistant via email</li>
 
 ---
 
