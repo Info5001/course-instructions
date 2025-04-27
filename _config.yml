@@ -1,6 +1,6 @@
-remote_theme: pages-themes/primer@v0.2.0
-plugins:
-  - jekyll-remote-theme
 title: INFO 5001 Setup Guides
 description: Development environment and tool configuration instructions for INFO 5001 students
 show_downloads: false
+remote_theme: pages-themes/primer@v0.2.0
+plugins:
+  - jekyll-remote-theme
