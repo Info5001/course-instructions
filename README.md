@@ -2,15 +2,6 @@
 
 This repository contains important guides and information for students enrolled in INFO 5001 at Northeastern University.
 
-> **📚 Course Documentation Website**: Access our [course documentation site](https://info5001.github.io/setup-guides/) for a more user-friendly experience.
-
-## Available Documentation
-
-- [About INFO 5001](about-info-5001.md) - Overview of the Information Systems program and detailed course description
-- [Development Environment Setup Guide](dev-environment-setup-guide.md) - Instructions for setting up Java, VS Code, and other required development tools
-- [GitHub Classroom Guide](github-classroom-guide.md) - How to access and submit assignments using GitHub Classroom
-- [GitHub Copilot Guide](github-copilot-guide.md) - Instructions for setting up and effectively using GitHub Copilot
-
 ## Course Tools
 
 Students in this course use the following industry-standard tools:
