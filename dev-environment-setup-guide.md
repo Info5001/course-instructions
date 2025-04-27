@@ -1,10 +1,8 @@
-# INFO5001 – Development Environment Setup (Step-by-Step Guide) 🚀
+# Development Environment Setup (Step-by-Step Guide) 🚀
 
-Welcome to INFO5001! 👋  
-This guide will help you set up your local development environment to complete coding assignments successfully.  
+This guide will help you set up your local development environment to complete coding assignments successfully.
+
 **Please follow each step carefully.**
-
----
 
 ## 1. Create a GitHub Account 🔑
 
