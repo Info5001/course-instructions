@@ -1,6 +1,4 @@
-# Setup Guides
-
-This repository contains important guides and information for students enrolled in INFO 5001 at Northeastern University.
+This repository contains important guides and information for students enrolled in INFO 5001 Application Modeling and Design, at Northeastern University College of Engineering.
 
 ## Course Tools
 
@@ -17,6 +15,7 @@ Students in this course use the following industry-standard tools:
 1. Follow the [Development Environment Setup Guide](dev-environment-setup-guide.md) to prepare your computer
 2. Set up GitHub access using the [GitHub Classroom Guide](github-classroom-guide.md)
 3. Configure AI assistance with the [GitHub Copilot Guide](github-copilot-guide.md)
+4. Learn how to [preserve your work](github-repo-lifecycle-guide.md) after the course ends (**important**)
 
 ## Need Help?
 
@@ -24,9 +23,14 @@ If you encounter any issues with the setup process or have questions about the c
 
 - Use Microsoft Teams and post your question to Courses channel
 - Check if other students have faced similar issues in the class discussions
-- Post your question in the course's Canvas discussion forums</li>
-- Use office hours (schedule available in Canvas)</li>
-- Contact your professor or teaching assistant via email</li>
+- Post your question in the course's Canvas discussion forums
+- Use office hours (schedule available in Canvas)
+- Contact your professor or teaching assistant via email
+
+## Additional Materials
+
+- [About INFO 5001](about-info-5001.md) - Course overview and objectives
+- [GitHub Repository Lifecycle Guide](github-repo-lifecycle-guide.md) - How to preserve your work after course completion
 
 ---
 
