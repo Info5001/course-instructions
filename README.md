@@ -21,7 +21,7 @@ Students in this course use the following industry-standard tools:
 
 If you encounter any issues with the setup process or have questions about the course tools, please:
 
-- Use Microsoft Teams and post your question to Courses channel
+- Post your question to Courses channel
 - Check if other students have faced similar issues in the class discussions
 - Post your question in the course's Canvas discussion forums
 - Use office hours (schedule available in Canvas)
@@ -31,7 +31,9 @@ If you encounter any issues with the setup process or have questions about the c
 
 - [About INFO 5001](about-info-5001.md) - Course overview and objectives
 - [GitHub Repository Lifecycle Guide](github-repo-lifecycle-guide.md) - How to preserve your work after course completion
+- [macOS Terminal Guide](macos-terminal-guide.md) - Setup and usage guide for macOS Terminal with Oh My Zsh
+- [Windows Terminal Guide](windows-terminal-guide.md) - Setup and usage guide for Windows Terminal with Git Bash and Oh My Zsh
 
 ---
 
-Last updated: April 27, 2025
+Last updated: May 4, 2025
