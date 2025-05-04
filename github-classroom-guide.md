@@ -1,4 +1,4 @@
-# GitHub Classroom Guide for INFO5001 🏫👨‍💻
+# GitHub Classroom Guide for INFO5001
 
 ## What is GitHub Classroom? 🎓
 
@@ -6,11 +6,11 @@ GitHub Classroom is a teaching tool that allows instructors to distribute coding
 
 ## Benefits of GitHub Classroom 🌟
 
-- **Automated Setup** ⚙️: Easily access assignments through a single link
-- **Real-world Skills** 💼: Learn Git and GitHub, the same tools used by professional developers
-- **Immediate Feedback** 💬: See build errors and instructor comments directly in code
-- **Portfolio Building** 📂: Build a collection of projects visible to potential employers
-- **Collaboration** 👥: Learn to work with others using professional tools
+- **Automated Setup**: Easily access assignments through a single link
+- **Real-world Skills**: Learn Git and GitHub, the same tools used by professional developers
+- **Immediate Feedback**: See build errors and instructor comments directly in code
+- **Portfolio Building**: Build a collection of projects visible to potential employers
+- **Collaboration**: Learn to work with others using professional tools
 
 ---
 
@@ -24,16 +24,16 @@ GitHub Classroom is a teaching tool that allows instructors to distribute coding
 
 ---
 
-## Accepting Assignments 📝
+## Accepting Assignments
 
 ### Steps for Accepting Your First Assignment
 
-1. **Access the Invitation Link** 📧
+1. **Access the Invitation Link**
 
    - You'll receive assignment links via Canvas announcements or email
    - Click the link to open the GitHub Classroom assignment page
 
-2. **Join the Classroom** 🏛️
+2. **Join the Classroom**
 
    - If this is your first assignment, you'll be asked to join the classroom
    - Select your name from the roster to link your GitHub account
@@ -60,18 +60,18 @@ GitHub Classroom is a teaching tool that allows instructors to distribute coding
 
 ---
 
-## Working on Assignments Locally 💻
+## Working on Assignments Locally
 
 ### Cloning Your Assignment Repository
 
-1. **Copy Repository URL** 📋
+1. **Copy Repository URL**
 
    - On your assignment repository page, click the green "Code" button
    - Copy the HTTPS URL
 
    ![Clone URL](https://docs.github.com/assets/cb-127534/mw-1440/images/help/repository/code-button.webp)
 
-2. **Clone in VS Code** 🧩
+2. **Clone in VS Code**
 
    - Open VS Code
    - Press `Ctrl+Shift+P` (Windows/Linux) or `Cmd+Shift+P` (Mac) to open Command Palette
@@ -88,7 +88,7 @@ GitHub Classroom is a teaching tool that allows instructors to distribute coding
    code .  # Opens the project in VS Code
    ```
 
-3. **Open the Project** 📂
+3. **Open the Project**
    - VS Code will open the cloned repository
    - You can now see all the assignment files and start working
 
@@ -98,7 +98,7 @@ GitHub Classroom is a teaching tool that allows instructors to distribute coding
 
 ### The Git Workflow for Assignments
 
-1. **Make Changes to Code** ✏️
+1. **Make Changes to Code**
 
    - Implement your solution in the provided files
    - Create new files if needed
@@ -118,7 +118,7 @@ GitHub Classroom is a teaching tool that allows instructors to distribute coding
    git add .  # Stages all changes
    ```
 
-4. **Commit Your Changes** 📝
+4. **Commit Your Changes**
 
    - Write a meaningful commit message (e.g., "Implemented factorial function")
    - Click the checkmark icon to commit
@@ -129,7 +129,7 @@ GitHub Classroom is a teaching tool that allows instructors to distribute coding
    git commit -m "Implemented factorial function"
    ```
 
-5. **Push to GitHub** 🚀
+5. **Push to GitHub**
 
    - Click the "..." in the Source Control panel and select "Push"
    - OR click on the sync icon in the status bar
@@ -140,7 +140,7 @@ GitHub Classroom is a teaching tool that allows instructors to distribute coding
    git push origin main
    ```
 
-6. **Verify Submission** ✅
+6. **Verify Submission**
    - Visit your GitHub repository page to confirm your changes are visible
    - Check for any automated feedback or tests that have run
 
@@ -158,89 +158,43 @@ GitHub Classroom is a teaching tool that allows instructors to distribute coding
 
 ### Don'ts ❌
 
-- **Don't Share Your Repository** 🚫: Your assignment repo should remain private
-- **Don't Wait Until the Deadline** ⏱️: Push your work regularly, not just at the last minute
-- **Don't Ignore Automated Feedback** 🤖: Check for automated tests and fix failures
-- **Don't Commit Credentials** 🔑: Never push API keys or passwords to GitHub
-- **Don't Make a Single Giant Commit** 📦: Break your work into logical, smaller commits
+- **Don't Share Your Repository**: Your assignment repo should remain private
+- **Don't Wait Until the Deadline**: Push your work regularly, not just at the last minute
+- **Don't Ignore Automated Feedback**: Check for automated tests and fix failures
+- **Don't Commit Credentials**: Never push API keys or passwords to GitHub
+- **Don't Make a Single Giant Commit**: Break your work into logical, smaller commits
 
 ---
 
-## Working with GitHub Classroom in VS Code 🧰
-
-### Using the GitHub Classroom Extension
-
-1. **Open VS Code** 💻
-
-2. **Access Your Assignments** 📚
-
-   - Click on the GitHub Classroom icon in the Activity Bar
-   - You'll see a list of your assignments
-
-   ![GitHub Classroom Extension](https://github.com/github/github-vscode-theme/raw/master/screenshots/preview.png)
-
-3. **Clone an Assignment** 📥
-
-   - Click on an assignment in the list
-   - Select "Clone assignment"
-   - Choose a location on your computer
-
-4. **Submit Assignment** 📤
-   - After making changes, use the Source Control panel to commit and push
-   - The extension will show submission status
-
----
-
-## Advanced GitHub Features for Students 🔧
-
-### GitHub Issues
-
-- **Track Tasks** 📋: Create issues for features you need to implement
-- **Ask Questions** ❓: If enabled, use issues to ask specific questions about the assignment
-
-### Pull Requests
-
-- **Self-Review** 🔍: Create pull requests to review your own code
-- **Get Feedback** 💬: Instructors may use pull requests to provide line-by-line feedback
-
-### GitHub Actions
-
-- **Automated Tests** 🧪: Some assignments may include automatic tests
-- **Check Status** ✓: Look for the green checkmark that indicates your code passes tests
-
----
-
-## Troubleshooting GitHub Classroom 🔍
+## Troubleshooting GitHub Classroom
 
 ### Common Issues and Solutions
 
-- **Authentication Failed** 🔒:
+- **Authentication Failed**:
 
   - Use a personal access token instead of password
   - Create one at GitHub > Settings > Developer Settings > Personal Access Tokens
 
-- **Cannot Push Changes** ⚠️:
+- **Cannot Push Changes**:
 
   - Ensure you've committed your changes first
   - Check if you have write access to the repository
   - Try `git pull` first to sync with remote changes
 
-- **Assignment Link Not Working** 🔗:
+- **Assignment Link Not Working**:
 
   - Make sure you're logged into GitHub
   - Check if the assignment deadline has passed
   - Contact your instructor for help
 
-- **Repository Not Showing in VS Code** 🔎:
+- **Repository Not Showing in VS Code**:
   - Try refreshing the GitHub Classroom extension
   - Clone the repository manually using the terminal
 
 ---
 
-## Additional Resources 📚
+## Additional Resources
 
-- [GitHub Classroom Student Guide](https://github.com/jfiksel/github-classroom-for-students) 📖
-- [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) 📄
 - [GitHub Skills](https://skills.github.com/) 🎮
 - [Pro Git Book](https://git-scm.com/book/en/v2) (free online) 📗
 - [Markdown Guide](https://www.markdownguide.org/) for README files 📝
