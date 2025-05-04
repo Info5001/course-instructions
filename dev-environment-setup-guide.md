@@ -1,10 +1,10 @@
-# Development Environment Setup (Step-by-Step Guide) 🚀
+# Development Environment Setup (Step-by-Step Guide)
 
 This guide will help you set up your local development environment to complete coding assignments successfully.
 
 **Please follow each step carefully.**
 
-## 1. Create a GitHub Account 🔑
+## 1. Create a GitHub Account
 
 ### Steps:
 
@@ -17,11 +17,11 @@ This guide will help you set up your local development environment to complete c
 4. Verify your email address.
 5. Your GitHub account is ready.
 
-✅ **Tip**: Use your **Northeastern University email** for easier access to student benefits.
+**Tip**: Use your **Northeastern University email** for easier access to student benefits.
 
 ---
 
-## 2. Apply for GitHub Student Developer Pack 🎓
+## 2. Apply for GitHub 🎓 Student Developer Pack
 
 The GitHub Student Developer Pack gives you free access to many developer tools, including GitHub Copilot.
 
@@ -39,19 +39,18 @@ The GitHub Student Developer Pack gives you free access to many developer tools,
    - **Note**: **Student ID cards alone may not work** — they often do not show proof of current enrollment.
 6. Wait for approval (usually within a day or two).
 
-✅ **Tip**: You can continue setting up your environment while waiting for approval.
+**Tip**: You can continue setting up your environment while waiting for approval.
 
 ---
 
-## 3. Install Visual Studio Code (VS Code) 💻
+## 3. Install Visual Studio Code (VS Code)
 
 ### Steps:
 
 1. Visit [https://code.visualstudio.com/](https://code.visualstudio.com/).
 2. Download and install the version for your operating system.
 3. Accept default installation options.
-
-✅ Open **VS Code** to confirm it installed correctly.
+4. Open **VS Code** to confirm it installed correctly.
 
 ---
 
@@ -90,20 +89,17 @@ Git is essential for version control and submitting your assignments.
    - Download Git from [https://git-scm.com/download/win](https://git-scm.com/download/win)
    - Run the installer, accepting default options
 2. **macOS**:
+
    - If you have Homebrew: Open Terminal and type `brew install git`
    - Otherwise: Download from [https://git-scm.com/download/mac](https://git-scm.com/download/mac)
-3. **Linux**:
 
-   - Ubuntu/Debian: `sudo apt install git`
-   - Fedora: `sudo dnf install git`
-
-4. Verify installation by opening Terminal/Command Prompt and typing:
+3. Verify installation by opening Terminal/Command Prompt and typing:
 
    ```bash
    git --version
    ```
 
-5. Configure your Git identity:
+4. Configure your Git identity:
    ```bash
    git config --global user.name "Your Name"
    git config --global user.email "your.email@northeastern.edu"
@@ -118,11 +114,11 @@ Git is essential for version control and submitting your assignments.
 1. Open VS Code
 2. Click on the Extensions icon in the sidebar (or press `Ctrl+Shift+X`)
 3. Install these essential extensions:
-   - **Extension Pack for Java** by Microsoft 📦
-   - **GitHub Classroom** by GitHub 🏫
-   - **Project Manager for Java** by Microsoft 📋
-   - **Maven for Java** by Microsoft 🔧
-   - **Test Runner for Java** by Microsoft 🧪
+   - **Extension Pack for Java** by Microsoft
+   - **GitHub Classroom** by GitHub
+   - **Project Manager for Java** by Microsoft
+   - **Maven for Java** by Microsoft
+   - **Test Runner for Java** by Microsoft
 
 ### Configure Java Path:
 
@@ -162,38 +158,38 @@ For detailed instructions on setting up and using these tools:
    git push origin main
    ```
 
-✅ **Note**: Always push your work before the deadline! ⏰
+**Note**: Always push your work before the ⏰ deadline!
 
 ---
 
-## 9. Troubleshooting 🔍
+## 9. Troubleshooting
 
-### Java Not Found: ❓
+### Java Not Found:
 
 - Ensure Java is installed correctly
 - Add Java to your PATH environment variable:
   - **Windows**: Search for "Environment Variables" > Edit System Variables > Add to PATH
   - **Mac/Linux**: Add `export PATH=$PATH:/path/to/java/bin` to your `.bash_profile` or `.zshrc`
 
-### GitHub Authentication Issues: 🔒
+### GitHub Authentication Issues:
 
 - Try authenticating with a Personal Access Token (PAT)
 - In GitHub: Settings > Developer Settings > Personal Access Tokens > Generate New Token
 - Use this token when prompted for a password
 
-### VS Code Extensions Not Working: ⚠️
+### VS Code Extensions Not Working:
 
 - Check that you have the correct version of Java installed
 - Restart VS Code after installing extensions
 - Try reinstalling the problematic extension
 
-### Need Help? 🆘
+### Need Help?
 
 If you encounter any issues not covered here, please:
 
-1. Post on the class discussion board 💬
-2. Check with classmates who may have solved the same issue 👥
-3. Attend office hours for personalized assistance 👨‍🏫
+1. Post in the course Teams channel
+2. Check with classmates who may have solved the same issue
+3. Attend office hours for personalized assistance
 
 ---
 
