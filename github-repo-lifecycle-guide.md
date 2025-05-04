@@ -1,19 +1,19 @@
-# GitHub Repository Lifecycle Guide 🔄📦
+# GitHub Repository Lifecycle Guide
 
-## Important: Preserving Your Course Work 🚨
+## Important: Preserving Your Course Work
 
 GitHub Classroom repositories created for this course are **temporary** and will be **deleted** after the course ends. To keep your work for your portfolio or future reference, you need to transfer it to your personal GitHub account.
 
-## Why Should You Keep Your Work? 🤔
+## Why Should You Keep Your Work?
 
-- **Portfolio Development** 💼: Showcase your coding projects to potential employers
-- **Reference Material** 📚: Revisit your solutions for future coursework or projects
-- **Professional Growth** 📈: Track your progression as a developer
-- **Knowledge Base** 🧠: Build your personal library of coding patterns and solutions
+- **Portfolio Development**: Showcase your coding projects to potential employers
+- **Reference Material**: Revisit your solutions for future coursework or projects
+- **Professional Growth**: Track your progression as a developer
+- **Knowledge Base**: Build your personal library of coding patterns and solutions
 
 ---
 
-## When Will Repositories Be Deleted? ⏰
+## When Will Repositories Be Deleted?
 
 - Course repositories are typically maintained for **3 months** after the course end date
 - After this period, **all content will be permanently deleted** without further notice
@@ -21,11 +21,11 @@ GitHub Classroom repositories created for this course are **temporary** and will
 
 ---
 
-## How to Preserve Your Work 💾
+## How to Preserve Your Work
 
 There are three main methods to preserve your work. Choose the approach that works best for you:
 
-### Method 1: Create a New Repository (Recommended) 🌟
+### Method 1: Create a New Repository (Recommended)
 
 This method preserves your entire project history and structure:
 
@@ -56,7 +56,7 @@ This method preserves your entire project history and structure:
    git push -u origin main
    ```
 
-### Method 2: Copy Selected Files 📋
+### Method 2: Copy Selected Files
 
 If you only want to preserve specific files or the latest version:
 
@@ -88,7 +88,7 @@ If you only want to preserve specific files or the latest version:
 
 ---
 
-## Preserving Multiple Repositories 📚
+## Preserving Multiple Repositories
 
 If you have multiple assignments or projects to preserve:
 
@@ -128,7 +128,7 @@ If you have multiple assignments or projects to preserve:
 
 ---
 
-## Additional Tips 💡
+## Additional Tips
 
 1. **Clean up before preserving**:
 
@@ -154,7 +154,7 @@ If you have multiple assignments or projects to preserve:
 
 ---
 
-## Troubleshooting Common Issues 🔍
+## Troubleshooting Common Issues
 
 ### Authentication Errors
 
@@ -177,4 +177,4 @@ If you see "Authentication failed" when pushing to your new repository:
 
 ---
 
-_Remember: It's YOUR responsibility to preserve your work before the deletion deadline. Set a reminder to complete this process before the 3-month post-course period ends._ ⏰
+_Remember: It's YOUR responsibility to preserve your work before the deletion deadline. Set a reminder to complete this process before the 3-month post-course period ends._
