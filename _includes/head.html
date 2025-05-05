@@ -1,0 +1,17 @@
+<!-- Default head tags -->
+{% if site.favicon %}
+<link
+  rel="shortcut icon"
+  type="image/png"
+  href="{{ site.baseurl }}/assets/{{ site.favicon }}"
+/>
+<link
+  rel="icon"
+  type="image/png"
+  href="{{ site.baseurl }}/assets/{{ site.favicon }}"
+/>
+<link
+  rel="apple-touch-icon"
+  href="{{ site.baseurl }}/assets/{{ site.favicon }}"
+/>
+{% endif %}
